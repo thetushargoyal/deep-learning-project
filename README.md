@@ -15,7 +15,7 @@
 
 ### Todo 
 
-- [ ] Replicate Wav2Lip
+- [ ] Replicate [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 - [ ] Figure out GPU resources
 - [ ] Get a dataset
 
