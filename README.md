@@ -2,6 +2,10 @@
 
 ## Resources 
 
+### Courses
+
+- [ ] [Hugging Face Audio course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+
 ### State of the art S2S (sppech-to-speech) models
 
 - [ ] ⁠https://ai.meta.com/blog/ai-translation-hokkien/
