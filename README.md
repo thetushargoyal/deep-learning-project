@@ -6,6 +6,10 @@
 
 - [ ] [Hugging Face Audio course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
+### State of the art Skeletal based hand gesture recognition models
+- [ ] https://github.com/fandulu/DD-Net 
+- [ ] https://github.com/liujf69/TD-GCN-Gesture
+
 ### State of the art S2S (sppech-to-speech) models
 
 - [ ] [AI-powered speech translation system for Hokkien pioneers a new approach for an unwritten language](⁠https://ai.meta.com/blog/ai-translation-hokkien/)
